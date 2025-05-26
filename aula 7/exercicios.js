@@ -6,12 +6,14 @@ console.log(Maiuscula(palavra))
 function Maiuscula(texto){
     return texto.toUpperCase();
 }
-
+/*
 //Expreção de Função
 const cxAlta = function (texto){
     return texto.toUpperCase();
 }
+//console.log(cxAlta(palavra))
 
 //função de seta
 const tdmaior = (texto) => texto.toUpperCase();
 console.log(tdmaior(palavra));
+*/
